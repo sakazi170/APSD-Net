@@ -1,1 +1,1 @@
-# APSD-Net: Code will be available after the acceptance of the paper.
+# Code will be available after the acceptance of the paper.
