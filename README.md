@@ -1,1 +1,1 @@
-# Code will be available after the acceptance of the paper.
+# Code will be made available after the paper is accepted.
